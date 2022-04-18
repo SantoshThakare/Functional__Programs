@@ -16,7 +16,6 @@ def temprature(temp, windspeed):
         print("Cannot comply with temperature or windspeed values")
         return 0
 
-
 if __name__ == '__main__':
     t = int(input("Enter temperature value:"))
     w = int(input("Enter windspeed value:"))

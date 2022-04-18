@@ -6,7 +6,6 @@ b = float(input("b: "))
 c = float(input("c: "))
 
 delta = b**2 - 4*a*c
-
 if delta > 0:
     num_roots = 2
     x1 = (((-b) + sqrt(delta))/(2*a))

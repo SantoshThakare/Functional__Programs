@@ -11,7 +11,6 @@ def triples(arr, num):
     if sum != 0:
         print("triplet is not exist")
 
-
 if __name__ == '__main__':
     arr = [0, -1, 2, -3, 1]
     num = len(arr)
